@@ -13,6 +13,7 @@ window.addEventListener("DOMContentLoaded", function () {
       updateCart();
     }
   });
+
   // Add the meals click funciton
   const meals = document.querySelectorAll(".meal");
   for (let meal of meals) {
