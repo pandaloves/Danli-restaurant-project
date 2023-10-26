@@ -1,3 +1,5 @@
+"use strict";
+
 const restaurantName = "Danli";
 var order = [];
 
